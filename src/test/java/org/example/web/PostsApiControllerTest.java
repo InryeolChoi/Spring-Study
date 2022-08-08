@@ -75,6 +75,7 @@ public class PostsApiControllerTest {
         PostsSaveRequestDto requestDto = PostsSaveRequestDto
                 .builder()
                 .title(title)
+                .content(content)
                 .author("author")
                 .build();
 
