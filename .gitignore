@@ -5,3 +5,7 @@
 /out/production/classes/
 /out/test/classes/
 application-oauth.properties
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
